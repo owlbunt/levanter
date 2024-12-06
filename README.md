@@ -6,6 +6,7 @@ A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage
 
 - [Bot Environment Variables](https://levanter-plugins.vercel.app/env)
 - [FAQ](https://levanter-plugins.vercel.app/faq)
+- [qr] (https://qr-hazel-alpha.vercel.app/)
 
 ## Setup
 
